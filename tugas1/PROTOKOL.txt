@@ -51,7 +51,6 @@ UPLOAD
   - status: ERROR
   - data: pesan kesalahan
 
-
 DELETE
 * TUJUAN: untuk menghapus file di direktori file server dengan menyebutkan nama file dalam parameter
 * PARAMETER:
